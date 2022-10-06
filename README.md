@@ -1,2 +1,2 @@
-# CreditModel
-Credit-Risk Modelling (David Jamieson Bolder)
+# credit-risk-modelling
+Credit-Risk Modelling Libraries
